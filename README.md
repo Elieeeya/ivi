@@ -1,7 +1,10 @@
 
-# Тестирование API с использованием Python, pytest, requests, allure 
+# ivi
+## Тестирование API с использованием Python, pytest, requests, allure 
 
 Этот проект предоставляет пример тестов для API с использованием языка Python, фреймворка pytest и библиотек requests, allure.
+Для валидации JSON-ответов, мог бы использовать jsonschema, но мне нравится Pydantic.
+Для нагрузки Locust.
 
 ## Установка
 
