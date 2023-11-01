@@ -1,0 +1,4 @@
+requests==2.26.0
+pytest==6.2.4
+allure-pytest==2.9.36
+python-dotenv==0.19.2
